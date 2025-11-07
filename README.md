@@ -46,16 +46,15 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/plant-disease-detection.git
+git clone https://github.com/aashish254/plant-disease-detection.git
 cd plant-disease-detection
 ```
 
 ### 2. Download the Model File
 
-The trained model file is too large for GitHub. Download it from one of these sources:
+The trained model file is too large for GitHub. Download it from GitHub Releases:
 
-- **Google Drive**: [Download Link] (Add your link)
-- **Dropbox**: [Download Link] (Add your link)
+- **GitHub Releases**: [Download Model File (203 MB)](https://github.com/aashish254/plant-disease-detection/releases/download/v1.0.0/plant_disease_recog_model_pwp.keras)
 
 Place the `plant_disease_recog_model_pwp.keras` file in the root directory of the project.
 
@@ -237,8 +236,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub or contact:
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: aashishmahato01@gmail.com
+- **GitHub**: [@aashish254](https://github.com/aashish254)
 
 ## 🐛 Known Issues
 
@@ -265,4 +264,4 @@ NEXT_PUBLIC_API_URL=http://localhost:5000
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Aashish Mahato](https://github.com/aashish254)

@@ -4,20 +4,15 @@ The trained model file (`plant_disease_recog_model_pwp.keras`) is approximately 
 
 ## 🔽 Download the Model
 
-### Option 1: Google Drive (Recommended)
-1. Download from: [Google Drive Link] (You need to upload and add the link)
+### GitHub Releases (Recommended)
+1. Download from: [GitHub Releases - v1.0.0](https://github.com/aashish254/plant-disease-detection/releases/download/v1.0.0/plant_disease_recog_model_pwp.keras)
 2. Place the file in the root directory of the project
 3. Verify the file name is exactly: `plant_disease_recog_model_pwp.keras`
 
-### Option 2: Dropbox
-1. Download from: [Dropbox Link] (You need to upload and add the link)
-2. Place the file in the root directory of the project
-3. Verify the file name is exactly: `plant_disease_recog_model_pwp.keras`
-
-### Option 3: Other Cloud Storage
-1. Download from: [Your Link] (You need to upload and add the link)
-2. Place the file in the root directory of the project
-3. Verify the file name is exactly: `plant_disease_recog_model_pwp.keras`
+**Direct Download Link:**
+```
+https://github.com/aashish254/plant-disease-detection/releases/download/v1.0.0/plant_disease_recog_model_pwp.keras
+```
 
 ## 📍 File Placement
 
@@ -73,7 +68,7 @@ If you see "Model loaded from: ..." in the console, the model is correctly loade
 ## 📧 Need Help?
 
 If you encounter issues downloading or using the model:
-1. Check the [Issues](https://github.com/yourusername/plant-disease-detection/issues) page
+1. Check the [Issues](https://github.com/aashish254/plant-disease-detection/issues) page
 2. Open a new issue with details about your problem
 3. Contact the maintainers
 
